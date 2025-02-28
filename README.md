@@ -18,7 +18,7 @@ SQL queries for answering organizational questions
 
 ### SQL Queries to Answer The Questions
 
-```
+```sql
  Select*
 from users_data;
 
